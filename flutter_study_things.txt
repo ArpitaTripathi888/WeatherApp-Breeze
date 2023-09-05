@@ -1,0 +1,6 @@
+statefull widget things:-
+stateful class 
+setstate method 
+init method-called when widget is created 
+dispose method -called when widget is discarded 
+
