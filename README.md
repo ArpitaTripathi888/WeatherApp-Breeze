@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Breezy
 Mobile Weather Application 
 =======
